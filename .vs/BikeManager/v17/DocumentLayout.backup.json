@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|c:\\users\\admin\\source\\repos\\bikemanager\\bikemanager\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\timxe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\timxe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\timxe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\timxe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\dangky.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\dangky.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\datxethanhcong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\datxethanhcong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\xacnhandatxe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\xacnhandatxe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\dangky.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\dangky.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\chitietxe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\chitietxe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\admin\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\admin\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\admin\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\admin\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\chitietxe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\chitietxe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\xacnhandatxe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\xacnhandatxe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\datxethanhcong.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\datxethanhcong.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\admin\\trangchu.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\admin\\trangchu.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\dangnhap.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\dangnhap.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\app_code\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\app_code\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|C:\\Users\\ADMIN\\source\\repos\\BikeManager\\bikemanager\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A3E9ECD2-5ED9-4693-B78D-2653CCA43641}|BikeManager\\BikeManager.csproj|solutionrelative:bikemanager\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 187,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Default.aspx",
+              "RelativeDocumentMoniker": "BikeManager\\Default.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Default.aspx",
+              "RelativeToolTip": "BikeManager\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-03T07:58:54.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimXe.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\TimXe.aspx",
+              "RelativeDocumentMoniker": "BikeManager\\TimXe.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\TimXe.aspx",
+              "RelativeToolTip": "BikeManager\\TimXe.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-08T15:18:58.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Content\\Site.css",
+              "RelativeDocumentMoniker": "BikeManager\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Content\\Site.css",
+              "RelativeToolTip": "BikeManager\\Content\\Site.css",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-03T08:04:47.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DangKy.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DangKy.aspx.cs",
+              "RelativeDocumentMoniker": "BikeManager\\DangKy.aspx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DangKy.aspx.cs",
+              "RelativeToolTip": "BikeManager\\DangKy.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:53:18.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhap.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DangNhap.aspx.cs",
+              "RelativeDocumentMoniker": "BikeManager\\DangNhap.aspx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DangNhap.aspx.cs",
+              "RelativeToolTip": "BikeManager\\DangNhap.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:12:18.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DangNhap.aspx",
+              "RelativeDocumentMoniker": "BikeManager\\DangNhap.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DangNhap.aspx",
+              "RelativeToolTip": "BikeManager\\DangNhap.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-04T02:36:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimXe.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\TimXe.aspx.cs",
+              "RelativeDocumentMoniker": "BikeManager\\TimXe.aspx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\TimXe.aspx.cs",
+              "RelativeToolTip": "BikeManager\\TimXe.aspx.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA3wFcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:19:40.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangKy.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DangKy.aspx",
+              "RelativeDocumentMoniker": "BikeManager\\DangKy.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DangKy.aspx",
+              "RelativeToolTip": "BikeManager\\DangKy.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-04T02:36:49.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "BikeManager\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Default.aspx.cs",
+              "RelativeToolTip": "BikeManager\\Default.aspx.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAkwI0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:00:49.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietXe.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\ChiTietXe.aspx",
+              "RelativeDocumentMoniker": "BikeManager\\ChiTietXe.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\ChiTietXe.aspx",
+              "RelativeToolTip": "BikeManager\\ChiTietXe.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-04T14:41:12.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XacNhanDatXe.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\XacNhanDatXe.aspx",
+              "RelativeDocumentMoniker": "BikeManager\\XacNhanDatXe.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\XacNhanDatXe.aspx",
+              "RelativeToolTip": "BikeManager\\XacNhanDatXe.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T14:50:39.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatXeThanhCong.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DatXeThanhCong.aspx",
+              "RelativeDocumentMoniker": "BikeManager\\DatXeThanhCong.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DatXeThanhCong.aspx",
+              "RelativeToolTip": "BikeManager\\DatXeThanhCong.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-07T15:03:26.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrangChu.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Admin\\TrangChu.aspx",
+              "RelativeDocumentMoniker": "BikeManager\\Admin\\TrangChu.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Admin\\TrangChu.aspx",
+              "RelativeToolTip": "BikeManager\\Admin\\TrangChu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-04T03:36:01.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrangChu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Admin\\TrangChu.aspx.cs",
+              "RelativeDocumentMoniker": "BikeManager\\Admin\\TrangChu.aspx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Admin\\TrangChu.aspx.cs",
+              "RelativeToolTip": "BikeManager\\Admin\\TrangChu.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:41:42.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "XacNhanDatXe.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\XacNhanDatXe.aspx.cs",
+              "RelativeDocumentMoniker": "BikeManager\\XacNhanDatXe.aspx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\XacNhanDatXe.aspx.cs",
+              "RelativeToolTip": "BikeManager\\XacNhanDatXe.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwDAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:52:20.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChiTietXe.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\ChiTietXe.aspx.cs",
+              "RelativeDocumentMoniker": "BikeManager\\ChiTietXe.aspx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\ChiTietXe.aspx.cs",
+              "RelativeToolTip": "BikeManager\\ChiTietXe.aspx.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:42:19.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatXeThanhCong.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DatXeThanhCong.aspx.cs",
+              "RelativeDocumentMoniker": "BikeManager\\DatXeThanhCong.aspx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DatXeThanhCong.aspx.cs",
+              "RelativeToolTip": "BikeManager\\DatXeThanhCong.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:03:55.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TrangChu.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Admin\\TrangChu.aspx.designer.cs",
+              "RelativeDocumentMoniker": "BikeManager\\Admin\\TrangChu.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Admin\\TrangChu.aspx.designer.cs",
+              "RelativeToolTip": "BikeManager\\Admin\\TrangChu.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:04:40.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DangNhap.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DangNhap.aspx.designer.cs",
+              "RelativeDocumentMoniker": "BikeManager\\DangNhap.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\DangNhap.aspx.designer.cs",
+              "RelativeToolTip": "BikeManager\\DangNhap.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:53:16.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Startup.cs",
+              "RelativeDocumentMoniker": "BikeManager\\Startup.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Startup.cs",
+              "RelativeToolTip": "BikeManager\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:46:00.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\App_Code\\DbConnection.cs",
+              "RelativeDocumentMoniker": "BikeManager\\App_Code\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\App_Code\\DbConnection.cs",
+              "RelativeToolTip": "BikeManager\\App_Code\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:43:49.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "BikeManager\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Default.aspx.designer.cs",
+              "RelativeToolTip": "BikeManager\\Default.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:04:09.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Web.config",
+              "RelativeDocumentMoniker": "BikeManager\\Web.config",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BikeManager\\BikeManager\\Web.config",
+              "RelativeToolTip": "BikeManager\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-03T08:03:31.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
